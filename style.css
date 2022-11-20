@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+.heading{
+    background-color: #dcdcdc5c;
+    height: 70px;
+}
+h1 {
+    padding-top: 25px;
+    text-align: center;
+    width: 50%;
+}
+li{
+    text-decoration: none;
+    float: right;
+    list-style-type: none;
+    padding: 10px; 
+    position: relative;
+    top: -49px;
+    padding-right: 50px;
+}
+#pp{
+    width: 100%;
+    height: 450px;
+    margin-top: -25px;
+}
+
+.about{
+    
+    height: 500px;
+    
+}
+.half-width{
+    width: 42%;
+    float: left;
+    margin: 50px;
+    
+}
+hr{ 
+    margin-top: 200px;
+    color: gray;
+}
+
+.icon{
+    width: 20%;
+    float: right;
+}
+.icon img {
+    width: 25px;
+    height: 20px;
+    padding: 4px;
+}
+.icon img:hover {
+    background-color: gray;
+}
+
+.para{
+    text-align: center;
+    margin-top: 50px;
+}
+.para p {
+    margin-top: -15px;
+}
+
+.services {
+    height: 300px;
+}
+.third {
+    width: 32%;
+    float: left;
+    text-align: center;
+    box-shadow: 2px 2px 8px gray;
+    margin: 8px;
+    border-radius: 2px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+    margin: 30px;
+}
